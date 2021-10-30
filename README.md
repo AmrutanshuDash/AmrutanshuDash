@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with: Backend Develepment, ReactJS
 - 💬 Ask me about: Web Development, Machine Learning, DSA
 - 📫 How to reach me: dash.amrutanshu198@gmail.com
-- ⚡ Fun fact: Paradoxically intuitive and distanced 😆
+- ⚡ Fun fact: Paradoxically intuitive and distanced 🤙
 
 ## ⚡ Github Stats
 <p align="center">
