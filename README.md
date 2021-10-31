@@ -33,8 +33,8 @@
 </a>
 
 
-  <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m1qg953xiz52xmf23klipv872&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=m1qg953xiz52xmf23klipv872&redirect=true) -->
-
+<!--   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m1qg953xiz52xmf23klipv872&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=m1qg953xiz52xmf23klipv872&redirect=true)
+ -->
 ## 🛠 Tech Stack
 <p align ="Center">
  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
